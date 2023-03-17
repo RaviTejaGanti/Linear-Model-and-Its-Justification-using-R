@@ -1,7 +1,7 @@
 # Understanding a simple linear regression performed in RStudio on mtcars dataset :wink:
 We are using mtcars dataset and plotting and trying to find out the relationship between the most important variables 
 
-**mpg(miles per gallon) formally its defination is:** mpg is the determinant of fuel efficiency
+**mpg(miles per gallon):**  is the determinant of fuel efficiency
 
 **displacement(disp):** Displacement measures overall volume in the engine as a factor of cylinder circumfrance, depth and total number of cylinders. This metric gives a good proxy for the total amount of power the engine can generate.
 
